@@ -6,11 +6,9 @@ import java.util.List;
 
 public class Main {
     public static void main(String[] args) {
-        /*String fileName = args[0];
+        String fileName = args[0];
         List<LinkedList<String>> data = DataReader.readFromFile(fileName);
         Calculator calculator = new SmartCalculator();
-        calculator.calculate(data);*/
-        BigDecimal bd = BigDecimal.ZERO;
-        System.out.println(bd.equals(new BigDecimal("0.0")));
+        calculator.calculate(data);
     }
 }

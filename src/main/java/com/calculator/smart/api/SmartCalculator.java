@@ -44,10 +44,8 @@ public class SmartCalculator implements Calculator {
             BigDecimal fractionalPart = result.remainder(BigDecimal.ONE);
             if (isZero(fractionalPart)) {
                 System.out.println("Output: " + result.setScale(0, RoundingMode.UP));
-                //log.debug("Output: " + result.setScale(0, RoundingMode.UP));
             } else {
                 System.out.println("Output: " + result);
-                //log.debug("Output: " + result);
             }
         }
     }
