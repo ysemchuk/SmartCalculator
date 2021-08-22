@@ -1,6 +1,5 @@
 package com.calculator.smart.api;
 
-import java.math.BigDecimal;
 import java.util.LinkedList;
 import java.util.List;
 
