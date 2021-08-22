@@ -1,0 +1,10 @@
+add 2
+multiply 3
+apply 10
+multiply 3
+add 2
+apply 10
+apply 1
+division 3
+multiply 4
+apply 17
