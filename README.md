@@ -7,7 +7,6 @@
 
 4. You can change "Homework.txt" on "YourFile.txt"
 
-To start testing:
-5. mvn test 
+5. To start testing: mvn test
 
 
